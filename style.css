@@ -1,16 +1,11 @@
+.test {
+    background:gray;
+    width:200px;
+    height:200px;
+    cursor: "Puppy_head1.png", auto;
+  }
 
-      * {
-          margin: 0;
-          padding: 0;
-      }
-      .imgbox {
-          display: grid;
-          height: 100%;
-      }
-      .center-fit {
-          max-width: 100%;
-          max-height: 100vh;
-          margin: auto;
-      }
-
-      
+  img {
+    width: 1500px;
+    height: 1100px;
+  }
